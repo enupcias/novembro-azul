@@ -1,0 +1,15 @@
+SITE NOVEMBRO AZUL
+
+Como usar:
+1. Extraia (descompacte) esta pasta no computador.
+2. Dê dois cliques em index.html para abrir no navegador.
+
+Estrutura:
+- index.html                 página principal
+- css/style.css              estilos
+- js/script.js               botão de compartilhar
+- assets/                    logo, vídeo e imagem de capa do vídeo
+
+Para publicar na internet, envie a pasta inteira (mantendo a organização)
+para sua hospedagem. Para trocar o vídeo, substitua assets/video-novembro-azul.mp4
+mantendo o mesmo nome.
